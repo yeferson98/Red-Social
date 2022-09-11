@@ -1,16 +1,2 @@
 # chat_social_new_technology
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Buena aplicación de redes sociales #IU usando #aleteo, la página de inicio se muestra una lista de perfiles.  En la página de detalles, se muestra la infromacion  de cada perfil. Aprenda cómo navegar en diferentes páginas, decorar Container, crear su propia targeta de imagenes desde cero y convertirla en un widget reutilizable.
